@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:312E81,55:6D28D9,80:7C3AED,100:0F172A&text=Bala%20Saravanan%20K&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Backend%20Systems&descAlignY=58&animation=fadeIn" alt="Bala Saravanan K profile banner" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=Full+Stack+Developer;AI+and+ML+Builder;Backend+Systems+%7C+Product+Engineering+%7C+Cloud+Workflows" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=36&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=1040&lines=Bala+Saravanan+K;Full+Stack+Developer;AI+and+ML+Builder;Backend+Systems+%7C+Product+Engineering+%7C+Cloud+Workflows" alt="Typing intro" />
 
 <br />
 
@@ -350,20 +348,5 @@ open_to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-saravanan-k/)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balasaravanank)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.baladev.me/)
-
-</div>
-
----
-
-## Footer
-
-<div align="center">
-
-<sub>Building reliable software where backend systems, AI workflows, and product thinking meet.</sub>
-
-<br />
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,40:312E81,70:6D28D9,100:020617" alt="Footer wave" />
 
 </div>
