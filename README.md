@@ -167,3 +167,20 @@ AI-powered career roadmap platform that analyzes student profiles and generates 
 </div>
 
 ---
+
+## Engineering Notes
+
+```ts
+const engineeringPrinciples = [
+  "Design data flow before interface polish",
+  "Keep failure paths explicit and observable",
+  "Use AI where it improves decisions, not just demos",
+  "Treat deployment and security as product features"
+];
+```
+
+<div align="center">
+
+<sub>Open to software engineering, backend, AI engineering, and platform opportunities.</sub>
+
+</div>
