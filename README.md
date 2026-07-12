@@ -78,19 +78,6 @@ Open to software engineering, backend, AI engineering, and product engineering o
 
 ---
 
-## Technical Matrix
-
-| Layer | Tools |
-| --- | --- |
-| Languages | Python, Java, TypeScript, JavaScript |
-| Backend | FastAPI, Node.js, Express.js, Fastify, Flask, REST APIs, async workflows |
-| Data | PostgreSQL, MongoDB, Firebase, SQLite, Redis, Qdrant, Supabase |
-| AI and ML | TensorFlow, scikit-learn, LLM integration, RAG systems, Groq, Ollama, vLLM |
-| Cloud and DevOps | AWS, Docker, GitHub Actions, Vercel, Railway, Azure, CI/CD |
-| Product | React, Next.js, Vite, Tailwind CSS, responsive UI, product engineering |
-
----
-
 ## Flagship Builds
 
 ### [XyroQX](https://github.com/balasaravanank/XyroQX)
