@@ -77,97 +77,37 @@ I have built and deployed projects across agentic DevOps workflows, graph-based 
 
 ---
 
-## Featured Projects
+## Flagship Builds
 
-<details>
-<summary><b>XyroQX</b> - Autonomous DevOps incident triage platform</summary>
+### [XyroQX](https://github.com/balasaravanank/XyroQX)
 
-<br />
+`Next.js` `TypeScript` `PostgreSQL` `Redis` `BullMQ` `LLM Agents`
 
-| Field | Details |
-| --- | --- |
-| Stack | Next.js, TypeScript, PostgreSQL, Redis, BullMQ, self-hosted LLM agents |
-| Scale | Designed for high-throughput cloud-native operational response workflows |
-| Performance | Async job orchestration with Redis-backed queues for incident investigation pipelines |
-| Security | Role-aware product architecture, controlled tool-calling flows, escalation-oriented workflows |
-| Impact | Enterprise incident triage system built to detect, investigate, and escalate operational issues |
-| Repository | [balasaravanank/XyroQX](https://github.com/balasaravanank/XyroQX) |
+Autonomous DevOps incident triage platform built around AI-assisted detection, investigation, escalation, async job orchestration, and production-grade operational response workflows.
 
-Engineering full-stack architecture for an autonomous DevOps product at AlgoQX, covering REST API design, frontend implementation, background job pipelines, AI agent integration, and deployment ownership as engineering lead.
+### [CampuSphere](https://github.com/balasaravanank/CampuSphere)
 
-</details>
+`FastAPI` `React` `PostgreSQL` `Redis` `Qdrant` `Docker` `Groq`
 
-<details>
-<summary><b>CampuSphere</b> - Product-grade college ERP replacement</summary>
+Full-stack college ERP replacement with JWT-based RBAC, OTP attendance, AI-summarized circulars, syllabus-aware RAG assistance, and role-based workflows for students, faculty, and admins.
 
-<br />
+### [TaxNet](https://github.com/balasaravanank/TaxNet)
 
-| Field | Details |
-| --- | --- |
-| Stack | FastAPI, React, PostgreSQL, Redis, Qdrant, Docker, Groq |
-| Scale | Student, faculty, and admin workflows across attendance, circulars, mentoring, and academics |
-| Performance | Containerized backend with Redis-assisted flows and GitHub Actions CI/CD |
-| Security | JWT-based RBAC, role-specific access, OTP attendance validation |
-| Impact | Modernizes outdated ERP workflows into a usable, AI-assisted campus platform |
-| Repository | [balasaravanank/CampuSphere](https://github.com/balasaravanank/CampuSphere) |
+`Python` `Flask` `NetworkX` `scikit-learn` `React` `D3.js` `Azure`
 
-Architected a full-stack platform with syllabus-aware AI assistance, AI-summarized circulars, 1:1 mentorship slot booking, and role-based workflows designed around real student and faculty usage.
+Graph-based GST fraud detection system using DFS cycle detection, PageRank signals, Isolation Forest scoring, and interactive network visualization for suspicious invoice patterns.
 
-</details>
+### [ClientMind](https://github.com/balasaravanank/ClientMind)
 
-<details>
-<summary><b>TaxNet</b> - Graph-based GST fraud detection system</summary>
+`FastAPI` `React` `Groq` `Supabase` `Railway` `Vercel`
 
-<br />
+AI freelance client intelligence agent with persistent memory for client preferences, interaction history, project context, and session-aware relationship workflows.
 
-| Field | Details |
-| --- | --- |
-| Stack | Python, Flask, NetworkX, scikit-learn, React, D3.js, Azure |
-| Scale | Invoice network analysis for circular trading rings and shell-company behavior |
-| Performance | Six-feature anomaly scoring with Isolation Forest and PageRank signals |
-| Security | Fraud-oriented graph analysis designed for suspicious transaction discovery |
-| Impact | Turns complex invoice networks into explainable fraud-risk signals and visual insights |
-| Repository | [balasaravanank/TaxNet](https://github.com/balasaravanank/TaxNet) |
+### [SkillRoute](https://github.com/balasaravanank/SkillRoute)
 
-Built a fraud intelligence system using DFS cycle detection, graph metrics, anomaly scoring, and interactive D3.js visualization to surface suspicious GST transaction patterns.
+`FastAPI` `React` `Groq API` `Firebase` `Vercel`
 
-</details>
-
-<details>
-<summary><b>ClientMind</b> - AI freelance client intelligence agent</summary>
-
-<br />
-
-| Field | Details |
-| --- | --- |
-| Stack | FastAPI, React, Groq, Hindsight, Supabase, Railway, Vercel |
-| Scale | Designed from real context across 65+ freelance client relationships |
-| Performance | Persistent client memory and session-aware intelligence workflows |
-| Security | Supabase-backed persistence with deployment split across Railway and Vercel |
-| Impact | Helps freelancers remember client preferences, history, and project context across sessions |
-| Repository | [balasaravanank/ClientMind](https://github.com/balasaravanank/ClientMind) |
-
-Created an AI system for client relationship memory, turning repeated freelance context into persistent, queryable intelligence for project communication and decision support.
-
-</details>
-
-<details>
-<summary><b>SkillRoute</b> - AI-powered career roadmap platform</summary>
-
-<br />
-
-| Field | Details |
-| --- | --- |
-| Stack | FastAPI, React, Groq API, Firebase, Vercel |
-| Scale | Student profile analysis, personalized learning plans, and progress tracking |
-| Performance | Modular backend service architecture with AI-generated time-bound roadmaps |
-| Security | Firebase authentication and user-specific progress workflows |
-| Impact | Converts student goals and skill gaps into personalized career-readiness plans |
-| Repository | [balasaravanank/SkillRoute](https://github.com/balasaravanank/SkillRoute) |
-
-Developed a career-learning platform that uses AI agents to analyze student profiles and generate structured, time-bound paths for skill development and placement readiness.
-
-</details>
+AI-powered career roadmap platform that analyzes student profiles and generates personalized, time-bound learning paths with authentication and progress tracking.
 
 ---
 
