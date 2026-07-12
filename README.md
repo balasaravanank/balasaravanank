@@ -62,7 +62,7 @@ Open to software engineering, backend, AI engineering, and product engineering o
 ## Technical Matrix
 
 | Layer | Tools |
-| --- | --- | --- |
+| --- | --- |
 | Languages | Python, Java, TypeScript, JavaScript |
 | Backend | FastAPI, Node.js, Express.js, Fastify, Flask, REST APIs, async workflows |
 | Data | PostgreSQL, MongoDB, Firebase, SQLite, Redis, Qdrant, Supabase |
