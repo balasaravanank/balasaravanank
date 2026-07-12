@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=Bala+Saravanan+K;Software+Engineer;AI+Systems+%7C+Backend+Platforms+%7C+Cloud+Workflows" alt="Typing intro" />
 
-<br />
-<br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.baladev.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-saravanan-k/)
