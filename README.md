@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=36&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=1040&lines=Bala+Saravanan+K;Full+Stack+Developer;AI+and+ML+Builder;Backend+Systems+%7C+Product+Engineering+%7C+Cloud+Workflows" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=Bala+Saravanan+K;Software+Engineer;AI+Systems+%7C+Backend+Platforms+%7C+Cloud+Workflows" alt="Typing intro" />
 
 <br />
 <br />
