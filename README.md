@@ -106,43 +106,6 @@ AI-powered career roadmap platform that analyzes student profiles and generates 
 
 ---
 
-## Recognition
-
-<div align="center">
-
-| Recognition | Details |
-| --- | --- |
-| AWS Student Builder Group Leader | Selected to represent Saveetha Engineering College in AWS student cloud leadership initiatives |
-| Engineering Lead at AlgoQX | Owning end-to-end product engineering for an autonomous DevOps incident triage platform |
-| 20 Public GitHub Repositories | Consistently building and publishing full-stack, AI, automation, and product engineering projects |
-| Academic Performance | B.Tech in Artificial Intelligence and Data Science with CGPA 8.74 / 10 |
-| Product Builder Mindset | Built systems across ERP modernization, AI roadmaps, graph fraud detection, and client intelligence |
-
-</div>
-
----
-
-## Credentials
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Student%20Builder%20Group%20Leader-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-Community%20Leadership-6D28D9?style=for-the-badge&labelColor=0F172A)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Technical%20Learning%20Track-4F46E5?style=for-the-badge&labelColor=0F172A)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Foundations-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
 ## Coding Platforms
 
 <div align="center">
