@@ -3,12 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=36&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=1040&lines=Bala+Saravanan+K;Full+Stack+Developer;AI+and+ML+Builder;Backend+Systems+%7C+Product+Engineering+%7C+Cloud+Workflows" alt="Typing intro" />
 
 <br />
-
-![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-7C3AED?style=flat-square&labelColor=020617)
-![Saveetha](https://img.shields.io/badge/Saveetha%20Engineering%20College-CGPA%208.74%2F10-6366F1?style=flat-square&labelColor=020617)
-![Location](https://img.shields.io/badge/Chennai-India-4F46E5?style=flat-square&labelColor=020617)
-
-<br />
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.baladev.me/)
