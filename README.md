@@ -59,15 +59,16 @@ Open to software engineering, backend, AI engineering, and product engineering o
 
 ---
 
-## AI Systems Matrix
+## Technical Matrix
 
-| Domain | Proficiency | Details |
+| Layer | Tools |
 | --- | --- | --- |
-| LLM Applications | Advanced Builder | Self-hosted LLM agents, tool-calling workflows, Groq integrations, Ollama/vLLM experimentation, RAG systems |
-| Machine Learning | Applied Practitioner | TensorFlow, scikit-learn, supervised learning, reinforcement learning prototypes, evaluation workflows |
-| Retrieval Systems | Project Experience | Qdrant vector search, syllabus-aware RAG, semantic resource discovery, context-aware assistant behavior |
-| Graph Intelligence | Project Experience | NetworkX, DFS cycle detection, PageRank signals, anomaly scoring for GST fraud detection |
-| MLOps & Deployment | Working Knowledge | Model-backed APIs, cloud deployment, CI/CD workflows, production-oriented integration patterns |
+| Languages | Python, Java, TypeScript, JavaScript |
+| Backend | FastAPI, Node.js, Express.js, Fastify, Flask, REST APIs, async workflows |
+| Data | PostgreSQL, MongoDB, Firebase, SQLite, Redis, Qdrant, Supabase |
+| AI and ML | TensorFlow, scikit-learn, LLM integration, RAG systems, Groq, Ollama, vLLM |
+| Cloud and DevOps | AWS, Docker, GitHub Actions, Vercel, Railway, Azure, CI/CD |
+| Product | React, Next.js, Vite, Tailwind CSS, responsive UI, product engineering |
 
 ---
 
@@ -102,35 +103,6 @@ AI freelance client intelligence agent with persistent memory for client prefere
 `FastAPI` `React` `Groq API` `Firebase` `Vercel`
 
 AI-powered career roadmap platform that analyzes student profiles and generates personalized, time-bound learning paths with authentication and progress tracking.
-
----
-
-## Engineering Experience
-
-### Product Development Engineer & Lead - AlgoQX
-
-**Jan 2026 - Present | Remote**
-
-Engineering full-stack architecture for XyroQX, an enterprise autonomous DevOps incident triage platform built around product-grade workflows, async infrastructure, and AI-assisted operations.
-
-- Designed and integrated self-hosted LLM-based AI agents with tool-calling workflows for detection, triage, investigation, and escalation.
-- Implemented async job orchestration pipelines with BullMQ and Redis for high-throughput operational response flows.
-- Owned product lifecycle across REST API design, frontend development, infrastructure automation, and cloud deployment.
-- Led engineering execution across backend systems, product flows, and deployment architecture.
-
-`Next.js` `TypeScript` `PostgreSQL` `Redis` `BullMQ` `LLM Agents` `System Design`
-
-### AI Intern - Edunet
-
-**Dec 2024 - Feb 2025 | Microsoft - AICTE - SAP | Remote**
-
-Built and evaluated ML prototypes in a structured corporate mentorship environment under the Microsoft-AICTE-SAP program.
-
-- Developed supervised learning and reinforcement learning models using Python, TensorFlow, and scikit-learn.
-- Worked with real-world datasets and model evaluation workflows.
-- Strengthened applied AI foundations through project-based implementation and review.
-
-`Python` `TensorFlow` `scikit-learn` `Machine Learning` `Model Evaluation`
 
 ---
 
