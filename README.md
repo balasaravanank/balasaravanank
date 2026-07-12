@@ -33,12 +33,9 @@ looking_for:
 
 ---
 
-## Engineering Profile
+## About
 
-Software engineer focused on AI systems, backend platforms, and cloud-ready products.  
-I build with FastAPI, React, PostgreSQL, Redis, and LLM workflows across real deployments.  
-My work spans DevOps agents, ERP platforms, fraud detection, and career-learning systems.  
-Open to software engineering, backend, AI engineering, and product engineering opportunities.
+Software engineer focused on AI systems, backend platforms, and cloud-ready products. I build with FastAPI, React, PostgreSQL, Redis, and LLM workflows across real deployments. My work spans DevOps agents, ERP platforms, fraud detection, and career-learning systems. Open to software engineering, backend, AI engineering, and product engineering opportunities.
 
 ---
 
