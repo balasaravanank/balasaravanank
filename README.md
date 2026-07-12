@@ -2,6 +2,27 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=Bala+Saravanan+K;Software+Engineer;AI+Systems+%7C+Backend+Platforms+%7C+Cloud+Workflows" alt="Typing intro" />
 
+</div>
+
+```yaml
+name: Bala Saravanan K
+role: Software Engineer
+location: Chennai, India
+focus:
+  - AI systems
+  - backend engineering
+  - cloud workflows
+currently_building:
+  - autonomous DevOps incident triage systems
+  - AI-powered campus and career platforms
+  - graph intelligence and RAG workflows
+looking_for:
+  - software engineering internships
+  - backend engineering roles
+  - AI engineering roles
+```
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.baladev.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-saravanan-k/)
