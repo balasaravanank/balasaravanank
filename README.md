@@ -16,13 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balakesavan65@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balasaravanank)
 
-<br />
-<br />
-
-![Profile Views](https://komarev.com/ghpvc/?username=balasaravanank&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/balasaravanank?style=for-the-badge&logo=github&color=6D28D9&labelColor=0F172A)
-![Stars](https://img.shields.io/github/stars/balasaravanank?affiliations=OWNER&style=for-the-badge&logo=github&color=4F46E5&labelColor=0F172A)
-
 </div>
 
 ---
