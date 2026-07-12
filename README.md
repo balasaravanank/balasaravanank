@@ -14,24 +14,18 @@
 
 ---
 
-## About
+## Engineering Profile
 
-I am a full-stack developer and AI builder focused on shipping real systems across backend services, product interfaces, data workflows, and applied machine learning. My work sits at the intersection of FastAPI, React, PostgreSQL, cloud deployment, and LLM-powered automation, with an engineering style shaped by clean API contracts, explicit system design, and product thinking.
-
-I have built and deployed projects across agentic DevOps workflows, graph-based fraud detection, college ERP modernization, AI career roadmaps, and client-intelligence systems. I enjoy owning the full stack from problem framing and architecture to implementation, deployment, iteration, and user-facing polish.
-
-**Open To**
-
-- Full-stack software engineering internships
-- Backend engineering and platform roles
-- AI engineering and applied ML opportunities
-- Product-focused engineering teams building real-world systems
+Software engineer focused on AI systems, backend platforms, and cloud-ready products.  
+I build with FastAPI, React, PostgreSQL, Redis, and LLM workflows across real deployments.  
+My work spans DevOps agents, ERP platforms, fraud detection, and career-learning systems.  
+Open to software engineering, backend, AI engineering, and product engineering opportunities.
 
 ---
 
-## Tech Stack
+## Core Stack
 
-### Languages
+### Runtime Languages
 
 <div align="center">
 
@@ -39,7 +33,7 @@ I have built and deployed projects across agentic DevOps workflows, graph-based 
 
 </div>
 
-### Frontend
+### Interface Layer
 
 <div align="center">
 
@@ -47,7 +41,7 @@ I have built and deployed projects across agentic DevOps workflows, graph-based 
 
 </div>
 
-### Backend & Databases
+### Service & Data Layer
 
 <div align="center">
 
@@ -55,7 +49,7 @@ I have built and deployed projects across agentic DevOps workflows, graph-based 
 
 </div>
 
-### Cloud, DevOps & Tooling
+### Cloud & Tooling
 
 <div align="center">
 
@@ -65,7 +59,7 @@ I have built and deployed projects across agentic DevOps workflows, graph-based 
 
 ---
 
-## AI / ML Expertise
+## AI Systems Matrix
 
 | Domain | Proficiency | Details |
 | --- | --- | --- |
@@ -111,7 +105,7 @@ AI-powered career roadmap platform that analyzes student profiles and generates 
 
 ---
 
-## Experience
+## Engineering Experience
 
 ### Product Development Engineer & Lead - AlgoQX
 
@@ -140,7 +134,7 @@ Built and evaluated ML prototypes in a structured corporate mentorship environme
 
 ---
 
-## Achievements
+## Recognition
 
 <div align="center">
 
@@ -156,7 +150,7 @@ Built and evaluated ML prototypes in a structured corporate mentorship environme
 
 ---
 
-## Certifications
+## Credentials
 
 ### AWS
 
@@ -177,7 +171,7 @@ Built and evaluated ML prototypes in a structured corporate mentorship environme
 
 ---
 
-## Coding Profiles
+## Coding Platforms
 
 <div align="center">
 
@@ -190,7 +184,7 @@ Built and evaluated ML prototypes in a structured corporate mentorship environme
 
 ---
 
-## GitHub Analytics
+## GitHub Metrics
 
 <div align="center">
 
@@ -206,7 +200,7 @@ Built and evaluated ML prototypes in a structured corporate mentorship environme
 
 ---
 
-## GitHub Trophies
+## Achievement Board
 
 <div align="center">
 
@@ -216,7 +210,7 @@ Built and evaluated ML prototypes in a structured corporate mentorship environme
 
 ---
 
-## Contribution Activity
+## Contribution Graph
 
 <div align="center">
 
@@ -226,7 +220,7 @@ Built and evaluated ML prototypes in a structured corporate mentorship environme
 
 ---
 
-## Contribution Snake
+## Contribution Flow
 
 <div align="center">
 
@@ -236,7 +230,7 @@ Built and evaluated ML prototypes in a structured corporate mentorship environme
 
 ---
 
-## Current Focus
+## Current Runtime
 
 ```yaml
 name: Bala Saravanan K
@@ -267,7 +261,7 @@ open_to:
 
 ---
 
-## Connect
+## Network
 
 <div align="center">
 
