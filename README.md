@@ -113,7 +113,7 @@ AI-powered career roadmap platform that analyzes student profiles and generates 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/balasaravanank/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/sBeRzyxaSF/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F172A?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://auth.geeksforgeeks.org/user/balasaravanank)
 [![HackerRank](https://img.shields.io/badge/HackerRank-0F172A?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/balasaravanank)
 [![CodeChef](https://img.shields.io/badge/CodeChef-0F172A?style=for-the-badge&logo=codechef&logoColor=8B5CF6)](https://www.codechef.com/users/balasaravanank)
